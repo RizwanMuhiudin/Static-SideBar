@@ -1,0 +1,20 @@
+.sideBarBox {
+    width: 20%;
+    min-width: 250px;
+}
+
+.sideOption {
+    list-style: none;
+    padding: 2px 5px;
+}
+
+.sideOption a {
+    text-decoration: none;
+    color: blue;
+}
+
+.activeOption {
+    font-weight: 700;
+    color: blue;
+    border-left: 3px solid;
+}
